@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView Training</string>
+    <string name="cost_breakdown">Cost Breakdown</string>
+</resources>
